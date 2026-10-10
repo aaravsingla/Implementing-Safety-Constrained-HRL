@@ -1,0 +1,9 @@
+{
+  "eval": {
+    "ep_ret": 21.236481621360632,
+    "ep_cost": 25.9,
+    "ep_oracle_ret": 17.13943742651781,
+    "near_miss_rate": 0.2714,
+    "goals_per_ep": 10.3
+  }
+}
